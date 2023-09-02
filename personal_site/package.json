@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/LueDev/LueDev.github.io.git/personal_site",
+  "homepage": "https://LueDev.github.io.git/personal_site",
   "name": "personal_site",
   "version": "0.1.0",
   "private": true,
@@ -24,5 +24,8 @@
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
